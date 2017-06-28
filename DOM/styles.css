@@ -1,0 +1,28 @@
+button {
+    display: block;
+    border: black 2px solid;
+    border-radius: 3em;
+    font-size: 1em;
+    padding: 3em;
+    background: lightseagreen;
+}
+
+.foxyboxy {
+    margin-left: 40px;
+    background-color: lightcoral;
+    margin-bottom: -40px;
+    width: 25em;
+    height: 20em;
+    border: black;
+    text-align: center;
+    }
+p {
+    margin-top: 20em;
+}
+.foxyboxy:hover {
+    background-color: gray;
+}
+
+.para:hover {
+    color: red;
+}
